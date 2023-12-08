@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.mahasuraksha",
+    "sha256_cert_fingerprints":
+    ["EC:B2:29:0A:3E:9F:73:7A:50:18:2E:0D:C9:14:9A:F5:5A:CE:AA:A2:EE:3F:22:BC:30:61:3D:AC:29:E0:BB:25"]
+  }
+}]
